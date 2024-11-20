@@ -61,6 +61,7 @@ The result of this query provides insights into monthly sales trends and custome
 ##### Step 1: Generating Yearly Sales Data
 
 The fiscal year and total gross sales for that year are calculated by grouping data by the fiscal year and summing the gross price totals.
+- Here, get_fiscal_year() is the UDF I created to simplify the code and minimize the complexity in code readability.
 
 ```sql
 SELECT get_fiscal_year(date) AS fiscal_year,
