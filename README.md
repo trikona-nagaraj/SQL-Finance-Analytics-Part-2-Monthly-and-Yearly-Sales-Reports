@@ -1,5 +1,5 @@
 
-# SQL Monthly & Yearly Sales (Finance Analytics)
+# SQL Task 2 Monthly & Yearly Sales (Finance Analytics)
 
 
 ## Gross Sales Report: Total Gross Price
