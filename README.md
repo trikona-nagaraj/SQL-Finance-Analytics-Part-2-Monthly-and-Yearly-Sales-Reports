@@ -1,5 +1,5 @@
 
-# SQL-Finance-Analytics-Monthly-&-Yearly-Sales-(Atliq-Hardware)
+# SQL Monthly & Yearly Sales (Finance Domain)
 
 
 ## Gross Sales Report: Total Gross Price
