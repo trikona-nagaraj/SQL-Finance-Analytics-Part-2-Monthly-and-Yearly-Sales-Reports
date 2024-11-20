@@ -22,7 +22,7 @@ The goal of this task is to generate monthly gross sales data for Croma India. T
 
 ```sql
 
-Step 1: Calculating Gross Price Total for Transactions
+# Step 1: Calculating Gross Price Total for Transactions
 The gross price for each transaction is calculated by multiplying the sold quantity by the gross price.
 
 SELECT date, 
@@ -38,7 +38,7 @@ ORDER BY date ASC
 ---
 
 
-Step 2: Aggregating Monthly Gross Sales
+# Step 2: Aggregating Monthly Gross Sales
 To provide a single row per month, gross sales data is aggregated using the SUM function and grouped by the transaction date.
 
 sql
