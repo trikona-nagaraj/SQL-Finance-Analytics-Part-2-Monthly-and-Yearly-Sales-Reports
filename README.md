@@ -1,5 +1,5 @@
 
-# SQL-Finance-Domain-Data-Analytics-for-Atliq-Hardware-Task-2-3
+# SQL-Finance-Analytics-for-Atliq-Hardware-Task-2-3
 
 ## Gross Sales Report: Total Gross Price
 
