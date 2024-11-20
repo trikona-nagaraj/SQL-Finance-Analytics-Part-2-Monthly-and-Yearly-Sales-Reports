@@ -54,7 +54,7 @@ The result of this query provides insights into monthly sales trends and custome
 
 #### Task Overview
 
-The objective is to generate a yearly gross sales report for Croma India, summarizing total sales by fiscal year.
+- The objective is to generate a yearly gross sales report for Croma India, summarizing total sales by fiscal year.
 
 #### Steps and Queries
 
