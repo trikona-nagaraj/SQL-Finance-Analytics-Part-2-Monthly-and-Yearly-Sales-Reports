@@ -1,5 +1,5 @@
 
-# SQL Monthly & Yearly Sales (Finance Domain)
+# SQL Monthly & Yearly Sales (Finance Analytics)
 
 
 ## Gross Sales Report: Total Gross Price
