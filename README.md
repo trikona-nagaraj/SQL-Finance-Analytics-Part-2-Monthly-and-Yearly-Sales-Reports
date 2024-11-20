@@ -4,7 +4,7 @@
 
 ## Gross Sales Report: Total Gross Price
 
-This report analyzes the total gross sales price for transactions made by Croma India, focusing on monthly and yearly aggregation. By leveraging MySQL, we extract and analyze gross sales data to provide valuable insights into financial performance.
+This report analyzes the total gross sales price for transactions made by Croma India a customer of 'Atliq Hardware Company', focusing on monthly and yearly aggregation. By leveraging MySQL, I extracted and analyzed gross sales data and obtained Monthly and yearly gross sales aggregations for CROMA INDIA customer providing valuable insights into financial performance.
 
 ---
 
