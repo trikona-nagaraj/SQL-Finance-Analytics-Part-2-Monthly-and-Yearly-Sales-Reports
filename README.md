@@ -2,22 +2,21 @@
 # SQL Task 2 Monthly & Yearly Sales (Finance Analytics)
 
 
-## Gross Sales Report: Total Gross Price
+## Objective
 
-This report analyzes the total gross sales price for transactions made by Croma India a customer of 'Atliq Hardware Company', focusing on monthly and yearly aggregation. By leveraging MySQL, I extracted and analyzed gross sales data and obtained Monthly and yearly gross sales aggregations for CROMA INDIA customer providing valuable insights into financial performance.
+Analyze Croma India's financial performance by calculating and aggregating gross sales prices on a monthly and yearly basis for enhanced decision-making.
 
 ---
 
 ### Monthly Gross Sales Report
 
-#### Task Overview
-The goal of this task is to generate monthly gross sales data for Croma India. The steps include:
-
-1. Calculating the gross sales price for each transaction.
-2. Aggregating the gross sales for individual months.
-3. Ensuring that the data is grouped and ordered correctly for analysis.
 
 #### Steps and Queries
+
+
+1. Calculated Gross Price per Transaction: Multiply sold_quantity by gross_price.
+2. Aggregated Monthly Sales: Sum gross sales grouped by the month.
+
 
 ##### Step 1: Calculating Gross Price Total for Transactions
 The gross price for each transaction is calculated by multiplying the sold quantity by the gross price. 
@@ -57,6 +56,9 @@ The result of this query provides insights into monthly sales trends and custome
 - The objective is to generate a yearly gross sales report for Croma India, summarizing total sales by fiscal year.
 
 #### Steps and Queries
+
+1. Grouped Fiscal Year: Aggregated sales data using the get_fiscal_year() UDF.
+2. Summarized Total Gross Sales: Calculated the yearly gross sales to identify financial performance.
 
 ##### Step 1: Generating Yearly Sales Data
 
